@@ -22,9 +22,9 @@ export class RecipesPage implements OnInit {
     },
     {
       id: 'r3',
-      title: 'Spaghetti Special 2',
-      imageUrl: 'https://pngimg.com/uploads/spaghetti/spaghetti_PNG23.png',
-      ingredients: ['Spaghetti', 'Pork', 'Tomatoes']
+      title: 'Special Chicken Adobo',
+      imageUrl: 'https://irepo.primecp.com/2019/05/411600/Filipino-Adobo-Chicken_ExtraLarge1000_ID-3219461.jpg?v=3219461',
+      ingredients: ['Chicken', 'Soy Sauce', 'Vinegar']
     },
   ];
 
